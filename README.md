@@ -53,7 +53,7 @@ LLM-generated Answer
 | Vector DB  | Pinecone                   |
 | Framework  | LangChain                  |
 | Backend    | FastAPI                    |
-| Deployment | Render                     |
+
 
 ---
 
